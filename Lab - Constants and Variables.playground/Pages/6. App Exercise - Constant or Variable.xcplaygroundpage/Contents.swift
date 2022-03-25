@@ -11,16 +11,7 @@
  - Goal number of steps: The user's goal for number of steps to take each day
  - Average heart rate: The user's average heart rate over the last 24 hours
  */
-let name = "Michael"
-print("Name won't change")
-var age = "23"
-print("Age will change")
-var stepsToday = 5_000
-print("Steps taken today will change")
-let stepGoal = 10_000
-print("The step goal won't change")
-var averageHeartRate = 60
-print("The average heart rate can change")
+
 /*:
  Now go back and add a line after each constant or variable declaration. On those lines, print a statement explaining why you chose to declare the piece of information as a constant or variable.
  */
